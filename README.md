@@ -1,5 +1,5 @@
 # Exact diagonalization - Anderson impurity model
-This repository outlines the calculation of the spectral function of the Anderson impurity model using exact diagonalization. 
+This repository outlines the calculation of the spectral function of the Anderson impurity model using exact diagonalization, at finite temperature. 
 This code is intended for educational purposes, and includes two flavors:
 - Diagonalization of the Hamiltonian matrix (no quantum number block sectors)
 - Block diagonalization of the Hamiltonian matrix according to quantum numbers $(Q,S_z)$.
